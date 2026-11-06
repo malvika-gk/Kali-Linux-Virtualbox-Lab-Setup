@@ -41,7 +41,21 @@ getent hosts google.com
 
 ## Screenshots
 
-Screenshots documenting my lab setup and network testing will be added here.
+### 1. Kali Linux Network Connectivity Test
+![Network Test](screenshots/Screenshot%20(3).png)
+
+### 2. VirtualBox Adapter Settings
+![Adapter Settings](screenshots/Screenshot%20(6).png)
+
+### 3. Kali Linux Desktop
+![Kali Linux Desktop](screenshots/WhatsApp%20Image%202026-11-06%20at%209.09.57%20PM.jpeg)
+
+### 4. NAT Network Configuration
+![NAT Network](screenshots/3-nat-network-configuration.png)
+
+### 5. VirtualBox Overview
+![VirtualBox Overview](screenshots/WhatsApp%20Image%202026-11-06%20at%209.11.59%20PM.jpeg)
+
 
 ## Key Learnings
 
